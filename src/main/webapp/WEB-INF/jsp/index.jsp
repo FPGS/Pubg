@@ -64,11 +64,11 @@
 		</thead>
 		<tbody>
 			<tr>
-				primaria
+				<td>primaria</td>
 				<td><c:out value="${person.primary.name}" /></td>
 			</tr>
 			<tr>
-				secundaria
+				<td>secundaria</td>
 				<td><c:out value="${person.secondary.name}" /></td>
 			</tr>
 		</tbody>
